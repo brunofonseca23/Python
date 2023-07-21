@@ -1,0 +1,1 @@
+Faça um programa em que o usuário digite a matrícula de um aluno e o programa busque no arquivo CSV de alunos do IFRN.Os dados desse aluno, apresentando ao usuário o nome do aluno, sua matrícula, seu curso, seu campus e sua situação. Caso a matrícula não seja encontrada, mostre uma mensagem informando isso. O programa repetirá até que o usuário digite o valor 0 para a matrícula.
